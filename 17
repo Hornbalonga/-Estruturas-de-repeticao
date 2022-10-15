@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int a, b, c, d, n[4];
+int contador = 0;
+int main(){
+
+  for(a=0; a<10; a++){
+    for(b=0; b<10; b++){
+      for(c=0; c<10;c++){
+        for(d=0; d<10;d++){
+          a1 = (n[0]*10+n[1] + (n[2]*10+n[3]));
+
+      
+
+          
+        }
+      }
+    }
+  }
+
+}
